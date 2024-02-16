@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['erro_166',['erro',['../namespacelogging.html#aab0ae4001c5fac434e2e33d2c0983326',1,'logging']]]
+  ['erro_166',['erro',['../namespacelogger.html#a0c4aee5216ee8b4d8316f82ba00c641e',1,'logger']]]
 ];

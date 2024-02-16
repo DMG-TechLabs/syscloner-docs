@@ -12,7 +12,7 @@ var searchData=
   ['ssh_119',['SSH',['../namespaceconstants.html#aebe81263b463973f81e0b0ac21b0076f',1,'constants']]],
   ['ssh_5fincluded_120',['ssh_included',['../classfile__builder_1_1FileBuilder.html#a8e3208e823f10abc746102bd4af4a350',1,'file_builder.FileBuilder.ssh_included()'],['../classfile__builder_1_1FileBuilder.html#a0adc3d6457ca7a36e44b08300e74e1cc',1,'file_builder.FileBuilder.ssh_included()'],['../classinstaller_1_1Installer.html#a8e3208e823f10abc746102bd4af4a350',1,'installer.Installer.ssh_included()'],['../classinstaller_1_1Installer.html#a0adc3d6457ca7a36e44b08300e74e1cc',1,'installer.Installer.ssh_included()']]],
   ['substring_5fin_5flist_121',['substring_in_list',['../namespaceget__methods.html#acb33c088b2f38b1b2880267175b2ab2d',1,'get_methods']]],
-  ['succ_122',['succ',['../namespacelogging.html#a6f61dc12a03e543f8e5d180a139fb617',1,'logging']]],
+  ['succ_122',['succ',['../namespacelogger.html#ad71211191a57b700bc630b285a8f4115',1,'logger']]],
   ['support_123',['support',['../namespacesupport.html',1,'']]],
   ['support_2epy_124',['support.py',['../support_8py.html',1,'']]],
   ['supported_5fdistros_125',['supported_distros',['../namespacesupport.html#a94b5a15254dd43d18dfa76d5cb80025d',1,'support']]],

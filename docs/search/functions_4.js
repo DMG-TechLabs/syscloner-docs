@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['debu_165',['debu',['../namespacelogging.html#aeffcc11d654cbe4b2ea4b08c3ef67af7',1,'logging']]]
+  ['debu_165',['debu',['../namespacelogger.html#a61d596ce9204b3687209972ed0dd6e52',1,'logger']]]
 ];

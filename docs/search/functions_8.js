@@ -11,7 +11,7 @@ var searchData=
   ['include_5fsnap_5fpackages_189',['include_snap_packages',['../classinstaller_1_1Installer.html#a59109235eee513461e93d14742700565',1,'installer.Installer.include_snap_packages()'],['../classfile__builder_1_1FileBuilder.html#a59109235eee513461e93d14742700565',1,'file_builder.FileBuilder.include_snap_packages(self)']]],
   ['include_5fssh_190',['include_ssh',['../classfile__builder_1_1FileBuilder.html#ab5a5d5fe8a080024355bbfb1b27162d6',1,'file_builder.FileBuilder.include_ssh()'],['../classinstaller_1_1Installer.html#ab5a5d5fe8a080024355bbfb1b27162d6',1,'installer.Installer.include_ssh()']]],
   ['include_5fsystem_5fsettings_191',['include_system_settings',['../classfile__builder_1_1FileBuilder.html#ae867e6237a74845a9a7419d1051d4102',1,'file_builder.FileBuilder.include_system_settings()'],['../classinstaller_1_1Installer.html#ae867e6237a74845a9a7419d1051d4102',1,'installer.Installer.include_system_settings()']]],
-  ['info_192',['info',['../namespacelogging.html#a9a56a4ef1ce1f301e93800e78fcb94a7',1,'logging']]],
+  ['info_192',['info',['../namespacelogger.html#a65af87c847fcad1c0508e9ce32ebf62a',1,'logger']]],
   ['install_193',['install',['../classinstaller_1_1Installer.html#a0ac02141fcf00adc3945e2ccb01fb2c1',1,'installer::Installer']]],
   ['install_5fapt_5fpackages_194',['install_apt_packages',['../namespaceinstall__methods.html#abb17070820b24259727aa08c5c9a6e83',1,'install_methods']]],
   ['install_5ffiles_5ffrom_5fbytes_195',['install_files_from_bytes',['../namespaceinstall__methods.html#a30cfb869e6afd8911237f8f3cc8767df',1,'install_methods']]],

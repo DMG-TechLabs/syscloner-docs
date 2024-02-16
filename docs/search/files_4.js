@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['logging_2epy_152',['logging.py',['../logging_8py.html',1,'']]]
+  ['logger_2epy_152',['logger.py',['../logger_8py.html',1,'']]]
 ];

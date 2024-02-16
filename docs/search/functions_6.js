@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['fail_167',['fail',['../namespacelogging.html#aa10124be7817e48448312ac9e3837081',1,'logging']]]
+  ['fail_167',['fail',['../namespacelogger.html#ab6b11df79e8027a486146157bb5b8d08',1,'logger']]]
 ];

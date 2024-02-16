@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['fail_25',['fail',['../namespacelogging.html#aa10124be7817e48448312ac9e3837081',1,'logging']]],
+  ['fail_25',['fail',['../namespacelogger.html#ab6b11df79e8027a486146157bb5b8d08',1,'logger']]],
   ['file_26',['file',['../classfile__parser_1_1FileParser.html#a40a5d58ffa6e88aa578d6683ac413105',1,'file_parser::FileParser']]],
   ['file_5fbuilder_27',['file_builder',['../namespacefile__builder.html',1,'']]],
   ['file_5fbuilder_2epy_28',['file_builder.py',['../file__builder_8py.html',1,'']]],
